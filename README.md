@@ -1,6 +1,6 @@
 # Hi, I'm Sohen
 
-MEng student at the University of Toronto (Data Analytics and Machine Learning). I build agentic and generative AI systems and measure them: retrieval ablations, golden sets, LLM-judge metrics and CI gates, rather than demos alone. I am looking for full-time AI Engineer roles starting January 2027.
+MEng student at the University of Toronto (Data Analytics and Machine Learning). I build agentic and generative AI systems and measure them: retrieval ablations, golden sets, LLM-judge metrics and CI gates, rather than demos alone.
 
 ## Selected work
 
