@@ -22,7 +22,11 @@ Retrieval plus LambdaRank re-ranking pipeline on MovieLens 100K, compared agains
 
 ## Stack
 
-Python, PyTorch, LangGraph, FastAPI, Postgres and pgvector, Docker, GitHub Actions, MLflow, Langfuse, RAGAS and DeepEval.
+**LLM and agents:** LangGraph, RAG (hybrid search and reranking), Langfuse, RAGAS, DeepEval, Pydantic, Claude and OpenAI APIs
+
+**ML:** PyTorch, scikit-learn, Hugging Face, MediaPipe
+
+**Backend and MLOps:** Python, SQL (PostgreSQL, pgvector), FastAPI, Docker, GitHub Actions, MLflow, DVC, pytest
 
 ## Find me
 
